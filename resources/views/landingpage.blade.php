@@ -457,16 +457,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="bg-gray-200 rounded-lg h-96 flex items-center justify-center">
-                    <div class="text-center text-gray-600">
-                        <i class="fas fa-map text-4xl mb-4"></i>
-                        <p class="text-lg">Peta Lokasi</p>
-                        <p class="text-sm">Jl. Lenteng Agung Raya No. 43</p>
+                <!-- Embed Google Maps -->
+                <div class="rounded-lg overflow-hidden shadow-lg h-96">
+                    <div class="rounded-lg overflow-hidden shadow-lg h-96">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.040705312623!2d106.8374929!3d-6.3052701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69edc22820f0c7%3A0x3cd2ea329894474b!2sSOTO%20WONG%20BOYOLALI%20PAK%20ASLI%20NUR%20RAMBO!5e0!3m2!1sid!2sid!4v1717420457812!5m2!1sid!2sid"
+                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
                     </div>
+
+
                 </div>
             </div>
         </div>
     </section>
+
 
     <!-- Contact Section -->
     <section id="contact" class="py-20 bg-white">
@@ -515,7 +521,7 @@
             <div class="grid md:grid-cols-3 gap-8">
                 <div>
                     <div class="flex items-center mb-4">
-                        <i class="fas fa-bowl-hot text-2xl text-green-500 mr-3"></i>
+                        <i class="fas fa-bowl-hot text-2xl text-green-500"></i>
                         <span class="text-xl font-bold">Soto Boyolali Pak Rambo</span>
                     </div>
                     <p class="text-gray-400">
@@ -534,10 +540,10 @@
                 <div>
                     <h4 class="text-lg font-semibold mb-4">Menu Favorit</h4>
                     <div class="space-y-2 text-gray-400">
-                        <p>• Soto Ayam Kampung</p>
-                        <p>• Soto Daging Sapi</p>
-                        <p>• Sate Daging Sapi</p>
-                        <p>• Berbagai Lauk Pendamping</p>
+                        <p>Soto Ayam Kampung</p>
+                        <p>Soto Daging Sapi</p>
+                        <p>Sate Daging Sapi</p>
+                        <p>Berbagai Lauk Pendamping</p>
                     </div>
                 </div>
             </div>
