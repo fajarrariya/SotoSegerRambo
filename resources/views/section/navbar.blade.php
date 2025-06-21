@@ -11,6 +11,8 @@
                         </li>
                         <li><a href="#home"
                                 class="text-gray-600 hover:text-green-500 transition duration-300">Home</a></li>
+                        <li><a href="#about"
+                                class="text-gray-600 hover:text-green-500 transition duration-300">Tentang</a></li>
                         <li><a href="#menu"
                                 class="text-gray-600 hover:text-green-500 transition duration-300">Menu</a></li>
                         <li><a href="#location"
